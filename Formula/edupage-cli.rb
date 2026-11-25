@@ -1,8 +1,8 @@
 class EdupageCli < Formula
   desc "Read-only Edupage access: Ruby library, CLI, REST API and MCP server"
   homepage "https://github.com/alhafoudh/edupage-cli"
-  url "https://github.com/alhafoudh/edupage-cli/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "decd71d6dd7ba567899c0394cad662e901df0df1d164e56fa8e24ff552040c31"
+  url "https://github.com/alhafoudh/edupage-cli/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "c9b5b1272ceca2286ff4a829ee0f7faf4a8d1e4c2167c35998e831a72cfc59aa"
   license "MIT"
   head "https://github.com/alhafoudh/edupage-cli.git", branch: "main"
 
